@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "img": "https://imgdb.net/storage/uploads/4f3b70e140bcff78f63e120982299dbdc00b80884d69847b7659472945859909.png",
+      "title": "Cox's Bazar",
+      "description": "Cox's Bazar is a town on the southeast coast of Bangladesh. It's known for its very long, sandy beachfront, stretching from Cox's Bazar town in the north to Chittagong Division in the south. It's the longest natural sea beach in the world, lined with hotels and restaurants."
+    },
+    {
+      "id": 2,
+      "img": "https://imgdb.net/storage/uploads/497eaa676197e2236173579a042810c1fee03ecba46812d8fa57175a89be5a45.png",
+      "title": "Sreemangal",
+      "description": "Sreemangal is a town located in northeastern Bangladesh, known for its tea gardens, hills, and forests. It's often referred to as the 'Tea Capital of Bangladesh' due to its vast tea plantations. The area is also famous for its biodiversity, with various wildlife sanctuaries and rainforests nearby."
+    },
+    {
+      "id": 3,
+      "img": "https://imgdb.net/storage/uploads/372cfc72e08dd7ce38658d5eff06dc7e1d0b142817ce4c254657157b9850a476.png",
+      "title": "Sundarbans",
+      "description": "The Sundarbans is a vast mangrove forest located in the delta region of the Padma, Meghna, and Brahmaputra river basins, spanning across Bangladesh and West Bengal, India. It's the largest tidal halophytic mangrove forest in the world and is home to the Bengal tiger. The area is a UNESCO World Heritage Site and a haven for biodiversity."
+    }
+  ]
+  
